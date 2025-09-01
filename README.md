@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamorbito
 - 👀 I’m interested in space.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on UI/UX and Product Engineering
 - 📫 How to reach me through Discord :- Orbit#1046
