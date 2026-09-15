@@ -1,5 +1,7 @@
-[![MasterHead](<img width="319" height="173" alt="Happy Minions GIF" src="https://github.com/user-attachments/assets/e791be78-0e77-40c8-9f38-3052d3db6dcb" />
-)](https://iamorbito.vercel.app/)</br>
+<a href="https://iamorbito.vercel.app/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/e791be78-0e77-40c8-9f38-3052d3db6dcb" width="319" height="173" alt="Happy Minions GIF">
+</a>
+
 
 # Hi there, I'm Yash Bhardwaj! 👋
 
