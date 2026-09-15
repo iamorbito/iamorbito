@@ -1,5 +1,5 @@
 <a href="https://iamorbito.vercel.app/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/e791be78-0e77-40c8-9f38-3052d3db6dcb" width="100%" alt="Happy Minions GIF">
+  <img src="https://github.com/user-attachments/assets/e791be78-0e77-40c8-9f38-3052d3db6dcb" width="100%" height="200" alt="Happy Minions GIF">
 </a>
 
 
