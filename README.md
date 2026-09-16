@@ -75,6 +75,8 @@ I'm a **Cybersecurity Engineer** specializing in **Vulnerability Assessment and 
 <!--![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)-->
 
 </div>
+
+---
 <!--
 ## 🔥 Expertise Areas
 
@@ -138,7 +140,6 @@ Comprehensive suite of offensive security tools including buffer overflows, bind
 
 ---
 -->
----
 
 ## 🎓 Education & Certifications
 
